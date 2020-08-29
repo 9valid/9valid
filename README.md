@@ -25,10 +25,8 @@
 - Basically here I will be posting projects that can help you out in situations on discord that some people don't know how to get by such as!
 
 1- Discord "Hackers"!!
-2- Discord "Nukers/Wizzers"
-3- Basically almost anything that you can think of also don't download any of this software with the intention to fuck up someones day randomly bruh
-  this is just incase.
-  
-4- If you know someone that skids selfbots or Copies selfbots without the (OFFICIAL CREATORS) credits listed directly on the ((prefix)"Help" or "Cmds")
-   send me there names with proof so I can expose them!
+
+
+Thats it!
+
   
