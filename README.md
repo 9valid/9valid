@@ -1,6 +1,6 @@
 <p align="center">
 <a>
-<img src="https://cdn.discordapp.com/attachments/736070992341762199/748817250571649074/image3.gif" alt="Avatar" style="border-radius: 50%;">
+<img src="https://avatars1.githubusercontent.com/u/70435833?s=400&u=c5212ead5a81cdda4aa0590927055e3d214dac67&v=4" alt="AV" style="border-radius: 50%;">
 </a>
 
 </p>
