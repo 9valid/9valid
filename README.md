@@ -8,7 +8,7 @@
 <h1 style="text-align: center;" align="center"> Dumb shit </h1>
 <p style="text-align: center;"align="center">Age- 16<br></p>
 <p style="text-align: center;"align="center">Interest- Coding mainly<br></p>
-<p style="text-align: center;"align="center">Languages: Javascript, C#, JavaScript, C++ Updated!<br></p>
+<p style="text-align: center;"align="center">Languages: Lua, C#, JavaScript, C++ Updated!<br></p>
 <p style="text-align: center;"align="center">My Discord: @tno 9valid#2799<br></p>
 <p style="text-align: center;"align="center"><br></p>
 
