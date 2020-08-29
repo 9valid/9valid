@@ -7,18 +7,16 @@
 <div class="display">
 <h1 style="text-align: center;" align="center"> Dumb shit </h1>
 <p style="text-align: center;"align="center">Age- 16<br></p>
-<p style="text-align: center;"align="center">Interest- Coding minly<br></p>
+<p style="text-align: center;"align="center">Interest- Coding mainly<br></p>
 <p style="text-align: center;"align="center">Languages: Javascript, C#, JavaScript, C++ Updated!<br></p>
-<p style="text-align: center;"align="center">MyDiscord: @tno 9valid#2799ٴٴٴٴٴٴٴٴٴٴٴٴٴ<br></p>
-
+<p style="text-align: center;"align="center">My Discord: @tno 9valid#2799<br></p>
+<p style="text-align: center;"align="center"><br></p>
 
 
 <p align="center">
-<a href="https://discord.gg/XrS9cn3"> <p style="text-align: center;"align="center"><br></p></>
+<a href="https://discord.gg/XrS9cn3"> <p style="text-align: center;"align="center">Our Discord Server<br></p></>
 <p align="center">
 <a href="https://discord.com/users/465749875737493504"> <p style="text-align: center;"align="center">My Discord Account<br></p></>
-<p align="center">
-<a href="https://www.youtube.com/channel/UCwTpoO1laiqjnLJ_td6pelg?view_as=subscriber"> <p style="text-align: center;"align="center">Youtube Channel<br></p></>
 
     
 <p align="center"> 
