@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://discord.gg/section"> <p style="text-align: center;"align="center">Our Discord Server<br></p></>
+<a href="https://discord.gg/237vydW"> <p style="text-align: center;"align="center">Our Discord Server<br></p></>
 <p align="center">
 <a href="https://discord.com/users/465749875737493504"> <p style="text-align: center;"align="center">My Discord Account<br></p></>
 
